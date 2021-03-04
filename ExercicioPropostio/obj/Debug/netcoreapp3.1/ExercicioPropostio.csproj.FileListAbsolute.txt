@@ -1,0 +1,13 @@
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.exe
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.deps.json
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.runtimeconfig.json
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.runtimeconfig.dev.json
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.dll
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\bin\Debug\netcoreapp3.1\ExercicioPropostio.pdb
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.csprojAssemblyReference.cache
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.AssemblyInfoInputs.cache
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.AssemblyInfo.cs
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.csproj.CoreCompileInputs.cache
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.dll
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.pdb
+D:\CursoCshap\Capitulos\Generics, Set, Dictionar\ExercicioPropostio\ExercicioPropostio\obj\Debug\netcoreapp3.1\ExercicioPropostio.genruntimeconfig.cache
