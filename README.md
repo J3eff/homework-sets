@@ -16,15 +16,5 @@ quantidade total e alunos dele, conforme exemplo.
 
 Exemplos de entrada:
 
-How many students for course A? 3
-21
-35
-22
-How many students for course B? 2
-21
-50
-How many students for course C? 3
-42
-35
-13
-Total students: 6
+![image](https://user-images.githubusercontent.com/50780211/110033839-aa03e080-7d18-11eb-8c25-9d4b794c537f.png)
+
