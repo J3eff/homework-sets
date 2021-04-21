@@ -1,5 +1,4 @@
-# Homework Sets
-## Exercício proposto - Trabalhando com conjuntos
+# Exercício proposto - Trabalhando com conjuntos
 
 Em um portal de cursos online, cada usuário possui um código único, representado por
 um número inteiro.
