@@ -1,5 +1,5 @@
-# homework-sets
-Exercício proposto - Trabalhando com conjuntos
+# Homework Sets
+## Exercício proposto - Trabalhando com conjuntos
 
 Em um portal de cursos online, cada usuário possui um código único, representado por
 um número inteiro.
@@ -14,7 +14,7 @@ O instrutor Alex possui três cursos A, B e C, e deseja saber seu número total 
 Seu programa deve ler os alunos dos cursos A, B e C do instrutor Alex, depois mostrar a
 quantidade total e alunos dele, conforme exemplo.
 
-Exemplos de entrada:
+### Exemplos de entrada:
 
 ![image](https://user-images.githubusercontent.com/50780211/110033839-aa03e080-7d18-11eb-8c25-9d4b794c537f.png)
 
